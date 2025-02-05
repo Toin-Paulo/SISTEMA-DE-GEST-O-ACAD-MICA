@@ -1,0 +1,10 @@
+[
+    {"matricula": 2025003,"senha": 2345, "nome": "Carlos Silva","materias": [
+            {"nome": "Matemática", "nota1": 7.5, "nota2": 8.0},
+            {"nome": "História", "nota1": 6.0, "nota2": 7.5}
+        ]},
+    {"matricula": 2025004,"senha": 2345, "nome": "Maria Souza", "materias": [
+            {"nome": "Matemática", "nota1": 7.5, "nota2": 8.0},
+            {"nome": "História", "nota1": 6.0, "nota2": 7.5}
+        ]}
+]
