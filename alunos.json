@@ -1,10 +1,54 @@
 [
-    {"matricula": 2025003,"senha": 2345, "nome": "Carlos Silva","materias": [
-            {"nome": "Matemática", "nota1": 7.5, "nota2": 8.0},
-            {"nome": "História", "nota1": 6.0, "nota2": 7.5}
-        ]},
-    {"matricula": 2025004,"senha": 2345, "nome": "Maria Souza", "materias": [
-            {"nome": "Matemática", "nota1": 7.5, "nota2": 8.0},
-            {"nome": "História", "nota1": 6.0, "nota2": 7.5}
-        ]}
+    {
+        "id": "2025003",
+        "senha": 2345,
+        "nome": "Carlos Silva",
+        "materias": [
+            {
+                "nome": "Matemática",
+                "nota1": 7.5,
+                "nota2": 8.0
+            },
+            {
+                "nome": "História",
+                "nota1": 6.0,
+                "nota2": 7.5
+            }
+        ]
+    },
+    {
+        "id": "2025004",
+        "senha": 2345,
+        "nome": "Maria Souza",
+        "materias": [
+            {
+                "nome": "Matemática",
+                "nota1": 7.5,
+                "nota2": 8.0
+            },
+            {
+                "nome": "História",
+                "nota1": 6.0,
+                "nota2": 7.5
+            }
+        ]
+    },
+    {
+        "id": "24242424",
+        "nome": "jose",
+        "senha": 1234,
+        "materias": [
+            {
+                "nome": "Matematica",
+                "nota1": 7.0,
+                "nota2": 9.0
+            }
+        ]
+    },
+    {
+        "matricula": "22424223",
+        "nome": "Carlos Jose",
+        "senha": 2345,
+        "materias": []
+    }
 ]
